@@ -254,3 +254,11 @@ btn:hover{
     }
     
 }
+@media screen and (max-heigt: 650px) {
+    header{
+        height: initial;
+    }
+    .footer{
+        margin: 4em auto 2em auto;
+    }
+}
